@@ -53,6 +53,7 @@ Interactive Excel dashboard created using PivotTables, charts, KPI cards, and sl
 Overview of sales, revenue, profit, and overall business performance.
 
 ![Executive Dashboard](09_Screenshots/PowerBI_Dashboard/Executive_Dashboard_1.png)
+
 ![Executive Dashboard](09_Screenshots/PowerBI_Dashboard/Executive_Dashboard_2.png)
 
 #### Operations Analysis
