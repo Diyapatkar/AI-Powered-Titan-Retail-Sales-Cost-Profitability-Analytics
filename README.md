@@ -42,10 +42,10 @@ The project uses a simulated Titan-inspired retail transaction dataset containin
 
 Interactive Excel dashboard created using PivotTables, charts, KPI cards, and slicers for retail sales and profitability analysis.
 
-![Titan Excel Dashboard](02_Excel_Analysis/Dashboard_Screenshots/Titan_Dasboard_1.png)
+![Titan Excel Dashboard](09_Screenshots/Excel_Dashboard/Titan_Dasboard_1.png)
 
 
-![Titan Excel Dashboard](02_Excel_Analysis/Dashboard_Screenshots/Titan_Dasboard_2.png)
+![Titan Excel Dashboard](09_Screenshots/Excel_Dashboard/Titan_Dasboard_2.png)
 
 ### 📊 Power BI Dashboards
 
