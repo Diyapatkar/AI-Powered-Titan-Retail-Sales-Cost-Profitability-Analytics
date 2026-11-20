@@ -1,0 +1,25 @@
+PROJECT NAME:
+AI-Powered Titan Retail Sales & Profitability Analytics
+
+ROLE:
+Data Analyst
+
+OBJECTIVE:
+Analyze retail transactions to understand revenue,
+cost, profitability, customer behaviour and sales trends.
+
+DATASET:
+12,000 simulated transaction records
+24 columns
+
+TOOLS:
+Excel, SQL Server, Python, Power BI,
+Generative AI and GitHub.
+
+KEY BUSINESS AREAS:
+1. Sales Performance
+2. Cost Analysis
+3. Profitability Analysis
+4. Customer Analytics
+5. Regional Analysis
+6. AI-Powered Business Insights

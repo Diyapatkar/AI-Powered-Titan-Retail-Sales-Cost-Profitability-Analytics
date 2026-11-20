@@ -1,0 +1,252 @@
+{
+    "Business_Performance": {
+        "Total_Orders": 10564,
+        "Total_Quantity": 15380,
+        "Revenue_INR": 357870639.49,
+        "Cost_INR": 291501319.0,
+        "Profit_INR": 66369320.5,
+        "Profit_Margin_Percent": 18.55
+    },
+    "Category_Analysis": [
+        {
+            "Product_Category": "Watches",
+            "Revenue": 90075068.06,
+            "Cost": 59272373.64,
+            "Profit": 30802694.42,
+            "Orders": 4553,
+            "Profit_Margin_Percent": 34.2
+        },
+        {
+            "Product_Category": "Jewellery",
+            "Revenue": 244957980.2,
+            "Cost": 217928777.78,
+            "Profit": 27029202.42,
+            "Orders": 3608,
+            "Profit_Margin_Percent": 11.03
+        },
+        {
+            "Product_Category": "Eyewear",
+            "Revenue": 10969381.38,
+            "Cost": 5928179.05,
+            "Profit": 5041202.35,
+            "Orders": 1267,
+            "Profit_Margin_Percent": 45.96
+        },
+        {
+            "Product_Category": "Wearables",
+            "Revenue": 10806138.22,
+            "Cost": 7820425.33,
+            "Profit": 2985712.89,
+            "Orders": 807,
+            "Profit_Margin_Percent": 27.63
+        },
+        {
+            "Product_Category": "Accessories",
+            "Revenue": 1062071.63,
+            "Cost": 551563.2,
+            "Profit": 510508.42,
+            "Orders": 329,
+            "Profit_Margin_Percent": 48.07
+        }
+    ],
+    "Regional_Analysis": [
+        {
+            "Region": "East",
+            "Revenue": 31143236.68,
+            "Profit": 5585772.34,
+            "Orders": 903,
+            "Profit_Margin_Percent": 17.94
+        },
+        {
+            "Region": "North",
+            "Revenue": 91229039.78,
+            "Profit": 17010548.52,
+            "Orders": 2647,
+            "Profit_Margin_Percent": 18.65
+        },
+        {
+            "Region": "South",
+            "Revenue": 116255133.34,
+            "Profit": 21902092.86,
+            "Orders": 3494,
+            "Profit_Margin_Percent": 18.84
+        },
+        {
+            "Region": "West",
+            "Revenue": 119243229.69,
+            "Profit": 21870906.78,
+            "Orders": 3520,
+            "Profit_Margin_Percent": 18.34
+        }
+    ],
+    "Monthly_Analysis": [
+        {
+            "Order_Date": "2024-04",
+            "Revenue": 13108219.69,
+            "Profit": 2322259.79,
+            "Month": "2024-04",
+            "Revenue_Growth_Percent": NaN
+        },
+        {
+            "Order_Date": "2024-05",
+            "Revenue": 16061081.92,
+            "Profit": 2820669.03,
+            "Month": "2024-05",
+            "Revenue_Growth_Percent": 22.53
+        },
+        {
+            "Order_Date": "2024-06",
+            "Revenue": 14738850.78,
+            "Profit": 2788166.45,
+            "Month": "2024-06",
+            "Revenue_Growth_Percent": -8.23
+        },
+        {
+            "Order_Date": "2024-07",
+            "Revenue": 14267848.33,
+            "Profit": 2765531.42,
+            "Month": "2024-07",
+            "Revenue_Growth_Percent": -3.2
+        },
+        {
+            "Order_Date": "2024-08",
+            "Revenue": 14608418.47,
+            "Profit": 2961605.49,
+            "Month": "2024-08",
+            "Revenue_Growth_Percent": 2.39
+        },
+        {
+            "Order_Date": "2024-09",
+            "Revenue": 14961901.39,
+            "Profit": 2774054.71,
+            "Month": "2024-09",
+            "Revenue_Growth_Percent": 2.42
+        },
+        {
+            "Order_Date": "2024-10",
+            "Revenue": 17031086.98,
+            "Profit": 3091650.35,
+            "Month": "2024-10",
+            "Revenue_Growth_Percent": 13.83
+        },
+        {
+            "Order_Date": "2024-11",
+            "Revenue": 16175584.11,
+            "Profit": 2706742.6,
+            "Month": "2024-11",
+            "Revenue_Growth_Percent": -5.02
+        },
+        {
+            "Order_Date": "2024-12",
+            "Revenue": 14634071.97,
+            "Profit": 2915733.37,
+            "Month": "2024-12",
+            "Revenue_Growth_Percent": -9.53
+        },
+        {
+            "Order_Date": "2025-01",
+            "Revenue": 16132023.75,
+            "Profit": 2897115.6,
+            "Month": "2025-01",
+            "Revenue_Growth_Percent": 10.24
+        },
+        {
+            "Order_Date": "2025-02",
+            "Revenue": 14033447.57,
+            "Profit": 2603173.36,
+            "Month": "2025-02",
+            "Revenue_Growth_Percent": -13.01
+        },
+        {
+            "Order_Date": "2025-03",
+            "Revenue": 15390564.2,
+            "Profit": 3115583.98,
+            "Month": "2025-03",
+            "Revenue_Growth_Percent": 9.67
+        },
+        {
+            "Order_Date": "2025-04",
+            "Revenue": 14172622.71,
+            "Profit": 2533698.28,
+            "Month": "2025-04",
+            "Revenue_Growth_Percent": -7.91
+        },
+        {
+            "Order_Date": "2025-05",
+            "Revenue": 14350113.28,
+            "Profit": 2671286.59,
+            "Month": "2025-05",
+            "Revenue_Growth_Percent": 1.25
+        },
+        {
+            "Order_Date": "2025-06",
+            "Revenue": 15008250.86,
+            "Profit": 2743282.81,
+            "Month": "2025-06",
+            "Revenue_Growth_Percent": 4.59
+        },
+        {
+            "Order_Date": "2025-07",
+            "Revenue": 14325969.92,
+            "Profit": 2828943.73,
+            "Month": "2025-07",
+            "Revenue_Growth_Percent": -4.55
+        },
+        {
+            "Order_Date": "2025-08",
+            "Revenue": 16184604.02,
+            "Profit": 2968678.75,
+            "Month": "2025-08",
+            "Revenue_Growth_Percent": 12.97
+        },
+        {
+            "Order_Date": "2025-09",
+            "Revenue": 14568139.82,
+            "Profit": 2738846.26,
+            "Month": "2025-09",
+            "Revenue_Growth_Percent": -9.99
+        },
+        {
+            "Order_Date": "2025-10",
+            "Revenue": 16365177.06,
+            "Profit": 3098330.22,
+            "Month": "2025-10",
+            "Revenue_Growth_Percent": 12.34
+        },
+        {
+            "Order_Date": "2025-11",
+            "Revenue": 13925433.49,
+            "Profit": 2624051.68,
+            "Month": "2025-11",
+            "Revenue_Growth_Percent": -14.91
+        },
+        {
+            "Order_Date": "2025-12",
+            "Revenue": 13351233.22,
+            "Profit": 2584120.78,
+            "Month": "2025-12",
+            "Revenue_Growth_Percent": -4.12
+        },
+        {
+            "Order_Date": "2026-01",
+            "Revenue": 14307258.27,
+            "Profit": 2638394.18,
+            "Month": "2026-01",
+            "Revenue_Growth_Percent": 7.16
+        },
+        {
+            "Order_Date": "2026-02",
+            "Revenue": 13355484.49,
+            "Profit": 2256544.56,
+            "Month": "2026-02",
+            "Revenue_Growth_Percent": -6.65
+        },
+        {
+            "Order_Date": "2026-03",
+            "Revenue": 16813253.19,
+            "Profit": 2920856.51,
+            "Month": "2026-03",
+            "Revenue_Growth_Percent": 25.89
+        }
+    ]
+}
